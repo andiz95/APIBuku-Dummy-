@@ -1,0 +1,33 @@
+[{
+        "id": 1,
+        "isbn": "S92-100-01",
+        "judul": "Belajar Menggunakan REST API",
+        "sinopsi":"API atau Application Programming Interface adalah sebuah interface yang dapat menghubungkan aplikasi satu dengan aplikasi lainnya",
+        "penulis":"Erwin Smith",
+        "genre":"Teknologi"
+    },
+    {
+        "id": 2,
+        "isbn": "S12-101-05",
+        "judul": "DBMS vs MySQL",
+        "sinopsi":"DBMS dalam jaringan komputer adalah untuk menghindari kekacauan dalam hal pengolahan data yang jumlahnya besar.",
+        "penulis":"Joko Hardi",
+        "genre":"Teknologi"
+    },
+    {
+        "id": 3,
+        "isbn": "M10-101-05",
+        "judul": "Memasak Indomie saos telor asin",
+        "sinopsi":"Di Indonesia, terutama di pulau Jawa telur asin biasanya diproduksi dari telur bebek pelari (Anas platyrhynchos domesticus) yang memiliki ciri khas cangkang telur yang berwarna biru.",
+        "penulis":"Souma Sukoma",
+        "genre":"Makanan"
+    },
+    {
+        "id": 4,
+        "isbn": "H20-202-01",
+        "judul": "Gatot Kaca Masuk HP",
+        "sinopsi":"Wayang adalah satu dari berbagai warisan kebudayaan masa lampau di Indonesia.",
+        "penulis":"Gatra Petruk",
+        "genre":"Hiburan"
+    }
+]
